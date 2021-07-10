@@ -772,7 +772,7 @@
             "Response": "True"
         },
         {
-            "id":20,
+            "id": 20,
             "Title": "Saving Private Ryan",
             "Year": "1998",
             "Rated": "R",
@@ -810,6 +810,607 @@
             "BoxOffice": "$217,049,603",
             "Production": "DreamWorks SKG, Mutual Film Company, Amblin Entertainment, Paramount Pictures, Mark Gordon Productions",
             "Website": "N/A",
+            "Response": "True"
+        }
+    ],
+    "TV": [
+        {
+            "id": 1,
+            "Title": "Loki",
+            "Year": "2021–",
+            "Rated": "TV-14",
+            "Released": "09 Jun 2021",
+            "Runtime": "N/A",
+            "Genre": "Action, Adventure, Fantasy",
+            "Director": "N/A",
+            "Writer": "Michael Waldron",
+            "Actors": "Tom Hiddleston, Owen Wilson, Gugu Mbatha-Raw",
+            "Plot": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SX300.jpg",
+            "Ratings": [],
+            "Metascore": "N/A",
+            "imdbRating": "N/A",
+            "imdbVotes": "59,329",
+            "imdbID": "tt9140554",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "id": 2,
+            "Title": "Sex/Life",
+            "Year": "2021–",
+            "Rated": "TV-MA",
+            "Released": "25 Jun 2021",
+            "Runtime": "N/A",
+            "Genre": "Comedy, Drama, Romance",
+            "Director": "N/A",
+            "Writer": "Stacy Rukeyser",
+            "Actors": "Sarah Shahi, Mike Vogel, Adam Demos",
+            "Plot": "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild-child past.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BY2NlYjZiYjItNTljNy00MzU2LWJkYmMtMjNkMWVjYmYwMzExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "5.6/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "5.6",
+            "imdbVotes": "4,610",
+            "imdbID": "tt10839422",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "id": 3,
+            "Title": "Rick and Morty",
+            "Year": "2013–",
+            "Rated": "TV-MA",
+            "Released": "02 Dec 2013",
+            "Runtime": "23 min",
+            "Genre": "Animation, Adventure, Comedy, Sci-Fi",
+            "Director": "N/A",
+            "Writer": "Dan Harmon, Justin Roiland",
+            "Actors": "Justin Roiland, Chris Parnell, Spencer Grammer, Sarah Chalke",
+            "Plot": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "Won 2 Primetime Emmys. Another 16 wins & 25 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.2/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "9.2",
+            "imdbVotes": "396,078",
+            "imdbID": "tt2861424",
+            "Type": "series",
+            "totalSeasons": "5",
+            "Response": "True"
+        },
+        {
+            "id": 4,
+            "Title": "Manifest",
+            "Year": "2018–2021",
+            "Rated": "TV-14",
+            "Released": "24 Sep 2018",
+            "Runtime": "43 min",
+            "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+            "Director": "N/A",
+            "Writer": "Jeff Rake",
+            "Actors": "Melissa Roxburgh, Josh Dallas, Athena Karkanis, J.R. Ramirez",
+            "Plot": "A commercial airliner suddenly reappears after being missing for five years. As those aboard reintegrate into society, they experience guiding voices and visions of events yet to occur, and soon a deeper mystery unfolds.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "4 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.2/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.2",
+            "imdbVotes": "26,411",
+            "imdbID": "tt8421350",
+            "Type": "series",
+            "totalSeasons": "3",
+            "Response": "True"
+        },
+        {
+            "id": 5,
+            "Title": "Bosch",
+            "Year": "2014–2021",
+            "Rated": "TV-MA",
+            "Released": "06 Feb 2014",
+            "Runtime": "51 min",
+            "Genre": "Crime, Drama",
+            "Director": "N/A",
+            "Writer": "Eric Ellis Overmyer",
+            "Actors": "Titus Welliver, Jamie Hector, Amy Aquino",
+            "Plot": "An L.A.P.D. homicide detective works to solve the murder of a thirteen-year-old boy while standing trial in federal court for the murder of a serial killer.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 1 Primetime Emmy. 7 wins & 12 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.4/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.4",
+            "imdbVotes": "51,602",
+            "imdbID": "tt3502248",
+            "Type": "series",
+            "totalSeasons": "7",
+            "Response": "True"
+        },
+        {
+            "id": 6,
+            "Title": "The Handmaid's Tale",
+            "Year": "2017–",
+            "Rated": "TV-MA",
+            "Released": "26 Apr 2017",
+            "Runtime": "60 min",
+            "Genre": "Drama, Sci-Fi, Thriller",
+            "Director": "N/A",
+            "Writer": "Bruce Miller",
+            "Actors": "Elisabeth Moss, Yvonne Strahovski, Joseph Fiennes",
+            "Plot": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+            "Language": "English, German, Greek",
+            "Country": "United States",
+            "Awards": "Won 15 Primetime Emmys. 74 wins & 184 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZGZiMTkzZjktNzk0OC00NzEzLWJjOTMtYjdkMWM1NGU1ZDM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.4/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.4",
+            "imdbVotes": "190,636",
+            "imdbID": "tt5834204",
+            "Type": "series",
+            "totalSeasons": "4",
+            "Response": "True"
+        },
+        {
+            "id": 7,
+            "Title": "Game of Thrones",
+            "Year": "2011–2019",
+            "Rated": "TV-MA",
+            "Released": "17 Apr 2011",
+            "Runtime": "57 min",
+            "Genre": "Action, Adventure, Drama",
+            "Director": "N/A",
+            "Writer": "David Benioff, D.B. Weiss",
+            "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+            "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+            "Language": "English",
+            "Country": "United States, United Kingdom",
+            "Awards": "Won 59 Primetime Emmys. 381 wins & 621 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.3/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "9.3",
+            "imdbVotes": "1,831,096",
+            "imdbID": "tt0944947",
+            "Type": "series",
+            "totalSeasons": "8",
+            "Response": "True"
+        },
+        {
+            "id": 8,
+            "Title": "Mare of Easttown",
+            "Year": "2021",
+            "Rated": "TV-MA",
+            "Released": "18 Apr 2021",
+            "Runtime": "403 min",
+            "Genre": "Crime, Drama, Mystery",
+            "Director": "N/A",
+            "Writer": "Brad Ingelsby",
+            "Actors": "Kate Winslet, Julianne Nicholson, Jean Smart",
+            "Plot": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "4 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYjIyOGU1NzAtODZmYi00NGMzLWJiMjItNGNjNTFjOTM5ZDJhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.5/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.5",
+            "imdbVotes": "67,123",
+            "imdbID": "tt10155688",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "id": 9,
+            "Title": "Sweet Tooth",
+            "Year": "2021–",
+            "Rated": "TV-14",
+            "Released": "04 Jun 2021",
+            "Runtime": "N/A",
+            "Genre": "Action, Adventure, Drama",
+            "Director": "N/A",
+            "Writer": "Jim Mickle, Beth Schwartz",
+            "Actors": "Nonso Anozie, Christian Convery, Stefania LaVie Owen",
+            "Plot": "A boy who is half human and half deer survives in a post-apocalyptic world with other hybrids.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.0",
+            "imdbVotes": "28,092",
+            "imdbID": "tt12809988",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "id": 10,
+            "Title": "Lucifer",
+            "Year": "2016–",
+            "Rated": "TV-14",
+            "Released": "25 Jan 2016",
+            "Runtime": "42 min",
+            "Genre": "Crime, Drama, Fantasy",
+            "Director": "N/A",
+            "Writer": "Tom Kapinos",
+            "Actors": "Tom Ellis, Lauren German, Lesley-Ann Brandt, Kevin Alejandro",
+            "Plot": "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "1 win & 15 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjIxOGMtOTAyZC00YTcyLWFhMzQtZTJkYTljYzU0MGRlXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.1/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.1",
+            "imdbVotes": "254,108",
+            "imdbID": "tt4052886",
+            "Type": "series",
+            "totalSeasons": "6",
+            "Response": "True"
+        },
+        {
+            "id": 11,
+            "Title": "The Walking Dead",
+            "Year": "2010–2022",
+            "Rated": "TV-14",
+            "Released": "31 Oct 2010",
+            "Runtime": "44 min",
+            "Genre": "Drama, Horror, Thriller",
+            "Director": "N/A",
+            "Writer": "Frank Darabont, Angela Kang",
+            "Actors": "Andrew Lincoln, Norman Reedus, Melissa McBride",
+            "Plot": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Won 2 Primetime Emmys. 78 wins & 222 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5ZmM0OTQtNDY4MS00ZjMyLTgwYzgtOGY0Y2VlMWFmNDU0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.2/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.2",
+            "imdbVotes": "877,528",
+            "imdbID": "tt1520211",
+            "Type": "series",
+            "totalSeasons": "11",
+            "Response": "True"
+        },
+        {
+            "id": 12,
+            "Title": "The Blacklist",
+            "Year": "2013–",
+            "Rated": "TV-14",
+            "Released": "23 Sep 2013",
+            "Runtime": "43 min",
+            "Genre": "Crime, Drama, Mystery",
+            "Director": "N/A",
+            "Writer": "Jon Bokenkamp",
+            "Actors": "James Spader, Megan Boone, Diego Klattenhoff",
+            "Plot": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Won 1 Primetime Emmy. 2 wins & 29 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZDA1MzE3M2EtNTE4Ni00OGE4LWE1NjctYzFhMzA2NDgxMDIxXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.0/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.0",
+            "imdbVotes": "209,854",
+            "imdbID": "tt2741602",
+            "Type": "series",
+            "totalSeasons": "8",
+            "Response": "True"
+        },
+        {
+            "id": 13,
+            "Title": "Friends",
+            "Year": "1994–2004",
+            "Rated": "TV-PG",
+            "Released": "22 Sep 1994",
+            "Runtime": "22 min",
+            "Genre": "Comedy, Romance",
+            "Director": "N/A",
+            "Writer": "David Crane, Marta Kauffman",
+            "Actors": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc",
+            "Plot": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+            "Language": "English, Spanish, Italian, French, Dutch, Hebrew",
+            "Country": "USA",
+            "Awards": "Won 6 Primetime Emmys. Another 71 wins & 220 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.9/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.9",
+            "imdbVotes": "865,429",
+            "imdbID": "tt0108778",
+            "Type": "series",
+            "totalSeasons": "10",
+            "Response": "True"
+        },
+        {
+            "id": 14,
+            "Title": "The Sopranos",
+            "Year": "1999–2007",
+            "Rated": "TV-MA",
+            "Released": "10 Jan 1999",
+            "Runtime": "55 min",
+            "Genre": "Crime, Drama",
+            "Director": "N/A",
+            "Writer": "David Chase",
+            "Actors": "James Gandolfini, Lorraine Bracco, Edie Falco",
+            "Plot": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+            "Language": "English, Italian, Russian",
+            "Country": "United States",
+            "Awards": "Won 21 Primetime Emmys. 120 wins & 309 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.2/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "9.2",
+            "imdbVotes": "318,076",
+            "imdbID": "tt0141842",
+            "Type": "series",
+            "totalSeasons": "6",
+            "Response": "True"
+        },
+        {
+            "id": 15,
+            "Title": "The Mysterious Benedict Society",
+            "Year": "2021–",
+            "Rated": "TV-PG",
+            "Released": "25 Jun 2021",
+            "Runtime": "N/A",
+            "Genre": "Adventure, Comedy, Drama, Family, Mystery",
+            "Director": "N/A",
+            "Writer": "N/A",
+            "Actors": "Seth Carr, Emmy DeOliveira, Mystic Inscho, Marta Kessler",
+            "Plot": "A group of gifted orphans are recruited by an eccentric, benefactor to go on a secret mission.",
+            "Language": "English",
+            "Country": "USA",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzFjY2U3ZjQtY2MzZC00MzExLWFhYjYtZWE3YmFmNGJhZTg4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.8/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.8",
+            "imdbVotes": "56",
+            "imdbID": "tt11875316",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "id": 16,
+            "Title": "Grey's Anatomy",
+            "Year": "2005–",
+            "Rated": "TV-14",
+            "Released": "27 Mar 2005",
+            "Runtime": "41 min",
+            "Genre": "Drama, Romance",
+            "Director": "N/A",
+            "Writer": "Shonda Rhimes",
+            "Actors": "Ellen Pompeo, Chandra Wilson, James Pickens Jr.",
+            "Plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Won 4 Primetime Emmys. 80 wins & 232 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjgwNGNkZGYtMWQyYS00YjEzLWFmZTctODUzYWMxOWJkNTAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.5/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.5",
+            "imdbVotes": "262,793",
+            "imdbID": "tt0413573",
+            "Type": "series",
+            "totalSeasons": "17",
+            "Response": "True"
+        },
+        {
+            "id": 17,
+            "Title": "Katla",
+            "Year": "2021–",
+            "Rated": "TV-MA",
+            "Released": "17 Jun 2021",
+            "Runtime": "N/A",
+            "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+            "Director": "N/A",
+            "Writer": "Sigurjón Kjartansson, Baltasar Kormákur",
+            "Actors": "Guðrún Ýr Eyfjörð, Íris Tanja Flygenring, Ingvar Sigurdsson, Aliette Opheim",
+            "Plot": "One year after the violent eruption of the subglacial volcano Katla, the peace and tranquility in the small town of Vik is dramatically disturbed.",
+            "Language": "Icelandic",
+            "Country": "Iceland",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGIyYWIzODQtMzU5Ni00YmIxLTk0YzAtOTg3ZWEwNjQ4OTQ4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "7.3/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "7.3",
+            "imdbVotes": "2,232",
+            "imdbID": "tt11102190",
+            "Type": "series",
+            "totalSeasons": "1",
+            "Response": "True"
+        },
+        {
+            "id": 18,
+            "Title": "Breaking Bad",
+            "Year": "2008–2013",
+            "Rated": "TV-MA",
+            "Released": "20 Jan 2008",
+            "Runtime": "49 min",
+            "Genre": "Crime, Drama, Thriller",
+            "Director": "N/A",
+            "Writer": "Vince Gilligan",
+            "Actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+            "Plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+            "Language": "English, Spanish",
+            "Country": "United States",
+            "Awards": "Won 16 Primetime Emmys. 152 wins & 238 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.4/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "96%"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "9.4",
+            "imdbVotes": "1,534,841",
+            "imdbID": "tt0903747",
+            "Type": "series",
+            "totalSeasons": "5",
+            "Response": "True"
+        },
+        {
+            "id": 19,
+            "Title": "Ted Lasso",
+            "Year": "2020–",
+            "Rated": "TV-MA",
+            "Released": "14 Aug 2020",
+            "Runtime": "30 min",
+            "Genre": "Comedy, Drama, Sport",
+            "Director": "N/A",
+            "Writer": "Brendan Hunt, Joe Kelly, Bill Lawrence, Jason Sudeikis",
+            "Actors": "Jason Sudeikis, Hannah Waddingham, Brendan Hunt, Jeremy Swift",
+            "Plot": "Follows U.S. American football coach Ted Lasso who heads to the U.K. to manage a struggling London football team in the top flight of English football.",
+            "Language": "English",
+            "Country": "USA, UK",
+            "Awards": "12 wins & 14 nominations.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BY2MxYjVlNzAtMDdhOS00N2U2LThlYWQtN2MwMWJjYjFhYzM5XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.7/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.7",
+            "imdbVotes": "56,522",
+            "imdbID": "tt10986410",
+            "Type": "series",
+            "totalSeasons": "2",
+            "Response": "True"
+        },
+        {
+            "id": 20,
+            "Title": "Yellowstone",
+            "Year": "2018–",
+            "Rated": "TV-MA",
+            "Released": "20 Jun 2018",
+            "Runtime": "60 min",
+            "Genre": "Drama, Western",
+            "Director": "N/A",
+            "Writer": "Taylor Sheridan, John Linson",
+            "Actors": "Kevin Costner, Luke Grimes, Kelly Reilly",
+            "Plot": "A ranching family in Montana faces off against others encroaching on their land.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "3 wins & 4 nominations",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkNWM1NTQtODI4NS00NzllLTg1ODAtYjg3N2QxZjc3ZjRiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "8.6/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "8.6",
+            "imdbVotes": "38,713",
+            "imdbID": "tt4236770",
+            "Type": "series",
+            "totalSeasons": "4",
             "Response": "True"
         }
     ]
