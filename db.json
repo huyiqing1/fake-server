@@ -39,7 +39,9 @@
             "BoxOffice": "$389,813,101",
             "Production": "Marvel Studios, Walt Disney Pictures",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 4.99,
+            "Buy": 14.99
         },
         {
             "id": 2,
@@ -80,7 +82,9 @@
             "BoxOffice": "$28,699,976",
             "Production": "Columbia Pictures, Castle Rock Entertainment",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 5.99,
+            "Buy": 15.99
         },
         {
             "id": 3,
@@ -121,7 +125,9 @@
             "BoxOffice": "$134,966,411",
             "Production": "Paramount Pictures",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 6.99,
+            "Buy": 16.99
         },
         {
             "id": 4,
@@ -162,7 +168,9 @@
             "BoxOffice": "$534,858,444",
             "Production": "Syncopy",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 7.99,
+            "Buy": 17.99
         },
         {
             "id": 5,
@@ -203,7 +211,9 @@
             "BoxOffice": "N/A",
             "Production": "Orion-Nova Pictures",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 8.99,
+            "Buy": 18.99
         },
         {
             "id": 6,
@@ -244,7 +254,9 @@
             "BoxOffice": "$96,898,818",
             "Production": "Universal Pictures, Amblin Entertainment",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 9.99,
+            "Buy": 19.99
         },
         {
             "id": 7,
@@ -285,7 +297,9 @@
             "BoxOffice": "$377,845,905",
             "Production": "New Line Cinema, Saul Zaentz Company",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 3.99,
+            "Buy": 13.99
         },
         {
             "id": 8,
@@ -326,7 +340,9 @@
             "BoxOffice": "$107,928,762",
             "Production": "Miramax Films, A Band Apart, Jersey Films",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 4.99,
+            "Buy": 14.99
         },
         {
             "id": 9,
@@ -367,7 +383,9 @@
             "BoxOffice": "$315,710,750",
             "Production": "New Line Cinema, Saul Zaentz Company, WingNut Films",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 5.99,
+            "Buy": 15.99
         },
         {
             "id": 10,
@@ -408,7 +426,9 @@
             "BoxOffice": "$37,030,102",
             "Production": "Art Linson Productions, Fox 2000 Pictures, Taurus Film, New Regency Pictures",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 6.99,
+            "Buy": 16.99
         },
         {
             "id": 11,
@@ -449,7 +469,9 @@
             "BoxOffice": "$330,455,270",
             "Production": "Paramount Pictures",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 7.99,
+            "Buy": 17.99
         },
         {
             "id": 12,
@@ -490,7 +512,9 @@
             "BoxOffice": "$292,576,195",
             "Production": "Syncopy, Warner Bros.",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 8.99,
+            "Buy": 18.99
         },
         {
             "id": 13,
@@ -531,7 +555,9 @@
             "BoxOffice": "$342,551,365",
             "Production": "New Line Cinema, Saul Zaentz Company",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 9.99,
+            "Buy": 19.99
         },
         {
             "id": 14,
@@ -572,7 +598,9 @@
             "BoxOffice": "$292,753,960",
             "Production": "Lucasfilm Ltd.",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 3.99,
+            "Buy": 13.99
         },
         {
             "id": 15,
@@ -613,7 +641,9 @@
             "BoxOffice": "$171,479,930",
             "Production": "Village Roadshow Prod., Silver Pictures",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 4.99,
+            "Buy": 14.99
         },
         {
             "id": 16,
@@ -654,7 +684,9 @@
             "BoxOffice": "$46,836,214",
             "Production": "Warner Brothers",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 5.99,
+            "Buy": 15.99
         },
         {
             "id": 17,
@@ -695,7 +727,9 @@
             "BoxOffice": "$108,981,275",
             "Production": "Fantasy Films",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 6.99,
+            "Buy": 16.99
         },
         {
             "id": 18,
@@ -728,7 +762,9 @@
             "BoxOffice": "N/A",
             "Production": "N/A",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 7.99,
+            "Buy": 17.99
         },
         {
             "id": 19,
@@ -769,7 +805,9 @@
             "BoxOffice": "$44,000",
             "Production": "RKO Radio Pictures Inc., Liberty Films",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 8.99,
+            "Buy": 18.99
         },
         {
             "id": 20,
@@ -810,7 +848,9 @@
             "BoxOffice": "$217,049,603",
             "Production": "DreamWorks SKG, Mutual Film Company, Amblin Entertainment, Paramount Pictures, Mark Gordon Productions",
             "Website": "N/A",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 9.99,
+            "Buy": 19.99
         }
     ],
     "TV": [
@@ -837,7 +877,9 @@
             "imdbID": "tt9140554",
             "Type": "series",
             "totalSeasons": "1",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 3.99,
+            "Buy": 13.99
         },
         {
             "id": 2,
@@ -868,6 +910,9 @@
             "Type": "series",
             "totalSeasons": "1",
             "Response": "True"
+            ,
+            "Rent": 4.99,
+            "Buy": 14.99
         },
         {
             "id": 3,
@@ -897,7 +942,9 @@
             "imdbID": "tt2861424",
             "Type": "series",
             "totalSeasons": "5",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 5.99,
+            "Buy": 15.99
         },
         {
             "id": 4,
@@ -927,7 +974,9 @@
             "imdbID": "tt8421350",
             "Type": "series",
             "totalSeasons": "3",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 6.99,
+            "Buy": 16.99
         },
         {
             "id": 5,
@@ -957,7 +1006,9 @@
             "imdbID": "tt3502248",
             "Type": "series",
             "totalSeasons": "7",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 7.99,
+            "Buy": 17.99
         },
         {
             "id": 6,
@@ -987,7 +1038,9 @@
             "imdbID": "tt5834204",
             "Type": "series",
             "totalSeasons": "4",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 8.99,
+            "Buy": 18.99
         },
         {
             "id": 7,
@@ -1017,7 +1070,9 @@
             "imdbID": "tt0944947",
             "Type": "series",
             "totalSeasons": "8",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 9.99,
+            "Buy": 19.99
         },
         {
             "id": 8,
@@ -1047,7 +1102,9 @@
             "imdbID": "tt10155688",
             "Type": "series",
             "totalSeasons": "1",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 3.99,
+            "Buy": 13.99
         },
         {
             "id": 9,
@@ -1077,7 +1134,9 @@
             "imdbID": "tt12809988",
             "Type": "series",
             "totalSeasons": "1",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 4.99,
+            "Buy": 14.99
         },
         {
             "id": 10,
@@ -1107,7 +1166,9 @@
             "imdbID": "tt4052886",
             "Type": "series",
             "totalSeasons": "6",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 5.99,
+            "Buy": 15.99
         },
         {
             "id": 11,
@@ -1137,7 +1198,9 @@
             "imdbID": "tt1520211",
             "Type": "series",
             "totalSeasons": "11",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 6.99,
+            "Buy": 16.99
         },
         {
             "id": 12,
@@ -1167,7 +1230,9 @@
             "imdbID": "tt2741602",
             "Type": "series",
             "totalSeasons": "8",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 7.99,
+            "Buy": 17.99
         },
         {
             "id": 13,
@@ -1197,7 +1262,9 @@
             "imdbID": "tt0108778",
             "Type": "series",
             "totalSeasons": "10",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 8.99,
+            "Buy": 18.99
         },
         {
             "id": 14,
@@ -1227,7 +1294,9 @@
             "imdbID": "tt0141842",
             "Type": "series",
             "totalSeasons": "6",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 9.99,
+            "Buy": 19.99
         },
         {
             "id": 15,
@@ -1257,7 +1326,9 @@
             "imdbID": "tt11875316",
             "Type": "series",
             "totalSeasons": "1",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 3.99,
+            "Buy": 13.99
         },
         {
             "id": 16,
@@ -1287,7 +1358,9 @@
             "imdbID": "tt0413573",
             "Type": "series",
             "totalSeasons": "17",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 4.99,
+            "Buy": 14.99
         },
         {
             "id": 17,
@@ -1317,7 +1390,9 @@
             "imdbID": "tt11102190",
             "Type": "series",
             "totalSeasons": "1",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 5.99,
+            "Buy": 15.99
         },
         {
             "id": 18,
@@ -1351,7 +1426,9 @@
             "imdbID": "tt0903747",
             "Type": "series",
             "totalSeasons": "5",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 6.99,
+            "Buy": 16.99
         },
         {
             "id": 19,
@@ -1381,7 +1458,9 @@
             "imdbID": "tt10986410",
             "Type": "series",
             "totalSeasons": "2",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 7.99,
+            "Buy": 17.99
         },
         {
             "id": 20,
@@ -1411,7 +1490,9 @@
             "imdbID": "tt4236770",
             "Type": "series",
             "totalSeasons": "4",
-            "Response": "True"
+            "Response": "True",
+            "Rent": 8.99,
+            "Buy": 18.99
         }
     ]
 }
